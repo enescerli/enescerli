@@ -1,4 +1,4 @@
-  Hi there, I’m Enes 👋
+Hi there, I’m Enes 👋
 - 🎓 I'm student of Beykoz University.
 - 🌱 I’m currently learning to design games.
 - 🎮 I want to improve myself in the field of game making and design.
